@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
     private void printMe(){
 
-        System.out.println("HEY!");
+        System.out.println("Hello PUSH FROM Studio");
 
     }
 
